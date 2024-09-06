@@ -1,0 +1,63 @@
+{
+	"name": "แผนการศึกษาทั่วไป ปี 2563-2",
+	"root": {
+		"name_th": "หมวดวิชาศึกษาทั่วไป",
+		"name_en": "General Education",
+		"credit": 30,
+		"kind": 0,
+		"members": [
+			{
+				"name_th": "วิชาบังคับ",
+				"name_en": "Required Courses",
+				"credit": 23,
+				"kind": 0,
+				"members": [
+					{
+						"name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้",
+						"name_en": "Learner Person",
+						"credit": 15,
+						"kind": 2
+					},
+					{
+						"name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม",
+						"name_en": "Innovative Co-creator",
+						"credit": 4,
+						"kind": 2
+					},
+					{
+						"name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง",
+						"name_en": "Active Citizen ",
+						"credit": 4,
+						"kind": 2
+					}
+				]
+			},
+			{
+				"name_th": "วิชาเลือก",
+				"name_en": "General Education Elective",
+				"credit": 7,
+				"kind": 0,
+				"members": [
+					{
+						"name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้",
+						"name_en": "Learner Person",
+						"credit": 0,
+						"kind": 2
+					},
+					{
+						"name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม",
+						"name_en": "Innovative Co-creator",
+						"credit": 0,
+						"kind": 2
+					},
+					{
+						"name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง",
+						"name_en": "Active Citizen ",
+						"credit": 0,
+						"kind": 2
+					}
+				]
+			}
+		]
+	}
+}

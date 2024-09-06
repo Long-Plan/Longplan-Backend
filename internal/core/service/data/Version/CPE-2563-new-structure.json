@@ -1,0 +1,218 @@
+{
+  "code": 25410041100099,
+  "name_th": "หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์",
+  "name_en": "Bachelor of Engineering Program in Computer Engineering",
+  "year": 2563,
+  "requiredCredits": 139,
+  "geGroups": [
+    {
+      "name_th": "หมวดวิชาศึกษาทั่วไป",
+      "name_en": "General Education",
+      "requiredCredits": 30,
+      "requiredCourses": [
+        {
+          "name_th": "วิชาบังคับ",
+          "name_en": "Required Courses",
+          "requiredCredits": 23,
+          "learnerPerson": [
+            {
+              "requiredCredits": 15,
+              "groupCourses": [
+                {
+                  "course_no": "001101",
+                  "semester": 1,
+                  "year": 1
+                }
+              ]
+            }
+          ],
+          "innovativeCo": [
+            {
+              "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม",
+              "name_en": "Innovative Co-creator",
+              "requiredCredits": 4,
+              "groupCourses": [
+                {
+                  "course_no": "259192",
+                  "title_long_th": "ทักษะสำหรับการปฏิบัติงานแบบมืออาชีพและการเป็นผู้ประกอบการ",
+                  "title_long_en": "Skills for Professionalism and Entrepreneurship",
+                  "title_short_en": "SKILLS FOR PRO & ENTR",
+                  "course_desc_th": "การเตรียมความพร้อมของนักศึกษาที่จะสำเร็จการศึกษาในการปฏิบัติงานแบบมืออาชีพและการเป็นผู้ประกอบการ มีความรู้คู่คุณธรรม มีความสามารถในการปฏิบัติงาน มีสุขภาพร่างกายและจิตใจที่สมบูรณ์ มีจิตสำนึกที่ดีในการสร้างสรรค์สังคม มีความสามารถในการใช้ชีวิตอย่างเพียงพอและปลอดภัย การให้ลำดับขั้นเป็นที่น่าพอใจ (Satisfactory : S) หรือไม่เป็นที่น่าพอใจ (Unsatisfactory : U)",
+                  "course_desc_en": "Preparing students for graduation in professional practice and entrepreneurship, a well-disciplinary with physical well-being, positive mental health, morality, ethics and social consciousness. Preparing students to be able to live a sufficient and safety life. Grading will be on given on Satisfactory or unsatisfactory basis.",
+                  "credit": 1,
+                  "prerequisite": []
+                }
+              ]
+            }
+          ],
+          "activeCitizen ": [
+            {
+              "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง",
+              "name_en": "Active Citizen ",
+              "requiredCredits": 4,
+              "groupCourses": [
+                {
+                  "course_no": "140104",
+                  "title_long_th": "การเป็นพลเมือง",
+                  "title_long_en": "Citizenship",
+                  "title_short_en": "CITIZENSHIP",
+                  "course_desc_th": "ความหมาย นิยาม และแนวคิดเกี่ยวกับการเป็นพลเมือง การสร้างความตระหนักถึงปัญหารอบตัว ทั้งในระดับท้องถิ่น ระดับประเทศ และระดับนานาชาติ การเป็นพลเมืองกับการเรียนรู้และการดำรงตนในพหุวัฒนธรรมและความหลากหลายทางสังคม การสร้างทัศนคติเชิงบวกเพื่อการแก้ไขปัญหาความขัดแย้งด้วยสันติวิธี การแสดงออกทางการเมืองในศตวรรษที่ 21",
+                  "course_desc_en": "Meanings, definitions, and concepts involving citizenship. Creating awareness in surrounding problems at the local level, national level, and international level. Citizenship and learning, and existence in multicultural society and social diversity. Cultivation of positive attitude for peaceful conflict resolution. Political expression in the 21st century.",
+                  "credit": 3,
+                  "prerequisite": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "geEletive": [
+        {
+          "name_th": "วิชาเลือก",
+          "name_en": "General Education Elective",
+          "requiredCredits": 7,
+          "groupCourses": []
+        }
+      ]
+    }
+  ],
+  "fsGroups": [
+    {
+      "name_th": "หมวดวิชาเฉพาะ",
+      "name_en": "Field of Specialization",
+      "requiredCredits": 103,
+      "coreCourses": [
+        {
+          "name_th": "วิชาแกน",
+          "name_en": "Core Courses",
+          "requiredCredits": 33,
+          "groupCourses": [
+            {
+              "course_no": "206161",
+              "title_long_th": "แคลคูลัสสำหรับวิศวกรรมศาสตร์ 1",
+              "title_long_en": "Calculus for Engineering 1",
+              "title_short_en": "CALCULUS FOR ENGINEERING 1",
+              "course_desc_th": "เวกเตอร์เบื้องต้น อนุพันธ์ของฟังก์ชันหนึ่งตัวแปรและการประยุกต์ ปริพันธ์ไม่จำกัดเขตและปริพันธ์จำกัดเขต และการประยุกต์",
+              "course_desc_en": "Introduction to vector, derivatives of functions of one variable and applications, indefinite and definite integrals and applications.",
+              "credit": 3,
+              "prerequisite": []
+            }
+          ]
+        }
+      ],
+      "major": [
+        {
+          "name_th": "วิชาเอก",
+          "name_en": "Major",
+          "requiredCredits": 70,
+          "normalPlan": [
+            {
+              "requiredCourses": [
+                {
+                  "name_th": "วิชาเอกบังคับ",
+                  "name_en": "Required Courses",
+                  "requiredCredits": 52,
+                  "techApp": [
+                    {
+                      "name_th": "กลุ่มเทคโนโลยีเพื่องานประยุกต์",
+                      "name_en": "Technology for Application",
+                      "requiredCredits": [],
+                      "groupCourses": [
+                        {
+                          "course_no": "261405",
+                          "title_long_th": "เทคโนโลยีวิศวกรรมคอมพิวเตอร์ขั้นสูง",
+                          "title_long_en": "Advanced Computer Engineering Technology",
+                          "title_short_en": "ADV COMPUTER ENGR TECH",
+                          "course_desc_th": "บทนำเกี่ยวกับเทคโนโลยีวิศวกรรมคอมพิวเตอร์ขั้นสูง แพลตฟอร์มของเทคโนโลยีวิศวกรรมคอมพิวเตอร์ขั้นสูง เครื่องมือที่ใช้ในเทคโนโลยีวิศวกรรมคอมพิวเตอร์ขั้นสูง การประยุกต์ใช้เทคโนโลยีวิศวกรรมคอมพิวเตอร์ขั้นสูง กฎหมายและจริยธรรมเกี่ยวกับวิศวกรรมคอมพิวเตอร์",
+                          "course_desc_en": "Introduction to advanced computer engineering technologies. Platforms of advanced computer engineering technologies. Tools used in advanced computer engineering technologies. Applications of advanced computer engineering technologies. Laws and ethics related to computer engineering.",
+                          "credit": 3,
+                          "prerequisite": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "majorElectives": [
+                {
+                  "name_th": "เอกเลือก",
+                  "name_en": "Major Electives",
+                  "requiredCredits": 18,
+                  "groupCourses": [
+                    {
+                      "course_no": "261381",
+                      "title_long_th": "การจัดการด้านความมั่นคงปลอดภัยไซเบอร์",
+                      "title_long_en": "Cybersecurity Management",
+                      "title_short_en": "CYBERSECURITY MANAGEMENT",
+                      "course_desc_th": "พื้นฐานของความมั่นคงปลอดภัยของสารสนเทศและกรอบความมั่นคงปลอดภัยไซเบอร์ การคุกคามและการโจมตีความมั่นคงปลอดภัยของสารสนเทศ ความเสี่ยงทางดิจิทัล และความเสี่ยงของเทคโนโลยีสารสนเทศและความมั่นคงปลอดภัยไซเบอร์ มาตรฐานและกรอบการจัดการความเสี่ยง การประเมิน การระบุ และการวิเคราะห์ความเสี่ยง กระบวนการปฏิบัติและการตอบสนองต่อความเสี่ยง การกำกับดูแลด้านเทคโนโลยีสารสนเทศ ความมั่นคงปลอดภัยของสารสนเทศและความมั่นคงปลอดภัยไซเบอร์ ระบบการจัดการความมั่นคงปลอดภัยของสารสนเทศ การควบคุมความมั่นคงปลอดภัยของสารสนเทศและความมั่นคงปลอดภัยไซเบอร์ นโยบายและกระบวนงานของความมั่นคงปลอดภัยไซเบอร์ ทรัพย์สินทางดิจิทัลและการจัดการทรัพย์สิน การจัดการห่วงโซ่อุปทานดิจิทัล การปฏิบัติตามกฎหมายและข้อบังคับดิจิทัล กฎหมายความมั่นคงปลอดภัยไซเบอร์ ความเป็นผู้นำและการตระหนักรู้ด้านความมั่นคงปลอดภัยไซเบอร์",
+                      "course_desc_en": "Fundamentals of information security and cybersecurity framework. Information security threats and attacks. Digital risk, information technology (IT) and cybersecurity risk. Risk management framework and standards. Risk assessment, identification, and analysis. Risk treatment processes and risk response. Governance of IT, information security, and cybersecurity. Information security management system. Information security and cybersecurity controls. Information security policies and procedures. Digital assets and asset management. Digital supply chain management. Digital laws and regulatory compliance. Cybersecurity laws. Cybersecurity leadership and awareness.",
+                      "credit": 3,
+                      "prerequisite": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "cooPlan": [
+            {
+              "requiredCourses": [
+                {
+                  "name_th": "วิชาเอกบังคับ",
+                  "name_en": "Required Courses",
+                  "requiredCredits": 59,
+                  "techApp": [
+                    {
+                      "name_th": "กลุ่มเทคโนโลยีเพื่องานประยุกต์",
+                      "name_en": "Technology for Application",
+                      "requiredCredits": [],
+                      "groupCourses": [
+                        {
+                          "course_no": "261405",
+                          "title_long_th": "เทคโนโลยีวิศวกรรมคอมพิวเตอร์ขั้นสูง",
+                          "title_long_en": "Advanced Computer Engineering Technology",
+                          "title_short_en": "ADV COMPUTER ENGR TECH",
+                          "course_desc_th": "บทนำเกี่ยวกับเทคโนโลยีวิศวกรรมคอมพิวเตอร์ขั้นสูง แพลตฟอร์มของเทคโนโลยีวิศวกรรมคอมพิวเตอร์ขั้นสูง เครื่องมือที่ใช้ในเทคโนโลยีวิศวกรรมคอมพิวเตอร์ขั้นสูง การประยุกต์ใช้เทคโนโลยีวิศวกรรมคอมพิวเตอร์ขั้นสูง กฎหมายและจริยธรรมเกี่ยวกับวิศวกรรมคอมพิวเตอร์",
+                          "course_desc_en": "Introduction to advanced computer engineering technologies. Platforms of advanced computer engineering technologies. Tools used in advanced computer engineering technologies. Applications of advanced computer engineering technologies. Laws and ethics related to computer engineering.",
+                          "credit": 3,
+                          "prerequisite": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "majorElectives": [
+                {
+                  "name_th": "เอกเลือก",
+                  "name_en": "Major Electives",
+                  "requiredCredits": 12,
+                  "groupCourses": [
+                    {
+                      "course_no": "261381",
+                      "title_long_th": "การจัดการด้านความมั่นคงปลอดภัยไซเบอร์",
+                      "title_long_en": "Cybersecurity Management",
+                      "title_short_en": "CYBERSECURITY MANAGEMENT",
+                      "course_desc_th": "พื้นฐานของความมั่นคงปลอดภัยของสารสนเทศและกรอบความมั่นคงปลอดภัยไซเบอร์ การคุกคามและการโจมตีความมั่นคงปลอดภัยของสารสนเทศ ความเสี่ยงทางดิจิทัล และความเสี่ยงของเทคโนโลยีสารสนเทศและความมั่นคงปลอดภัยไซเบอร์ มาตรฐานและกรอบการจัดการความเสี่ยง การประเมิน การระบุ และการวิเคราะห์ความเสี่ยง กระบวนการปฏิบัติและการตอบสนองต่อความเสี่ยง การกำกับดูแลด้านเทคโนโลยีสารสนเทศ ความมั่นคงปลอดภัยของสารสนเทศและความมั่นคงปลอดภัยไซเบอร์ ระบบการจัดการความมั่นคงปลอดภัยของสารสนเทศ การควบคุมความมั่นคงปลอดภัยของสารสนเทศและความมั่นคงปลอดภัยไซเบอร์ นโยบายและกระบวนงานของความมั่นคงปลอดภัยไซเบอร์ ทรัพย์สินทางดิจิทัลและการจัดการทรัพย์สิน การจัดการห่วงโซ่อุปทานดิจิทัล การปฏิบัติตามกฎหมายและข้อบังคับดิจิทัล กฎหมายความมั่นคงปลอดภัยไซเบอร์ ความเป็นผู้นำและการตระหนักรู้ด้านความมั่นคงปลอดภัยไซเบอร์",
+                      "course_desc_en": "Fundamentals of information security and cybersecurity framework. Information security threats and attacks. Digital risk, information technology (IT) and cybersecurity risk. Risk management framework and standards. Risk assessment, identification, and analysis. Risk treatment processes and risk response. Governance of IT, information security, and cybersecurity. Information security management system. Information security and cybersecurity controls. Information security policies and procedures. Digital assets and asset management. Digital supply chain management. Digital laws and regulatory compliance. Cybersecurity laws. Cybersecurity leadership and awareness.",
+                      "credit": 3,
+                      "prerequisite": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "feGroups": [
+    {
+      "name_th": "หมวดวิชาเลือกเสรี",
+      "name_en": "Free Electives",
+      "requiredCredits": 6,
+      "requiredCourses": []
+    }
+  ]
+}

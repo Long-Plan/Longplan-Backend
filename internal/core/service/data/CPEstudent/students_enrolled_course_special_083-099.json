@@ -1,0 +1,3534 @@
+{
+  "640612083": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "602102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "C"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "261111",
+          "CourseTitle": "INTERNET AND ONLINE COMMUNITY",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C+"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261208",
+          "CourseTitle": "NUMERICAL COMP FOR ENGR",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261218",
+          "CourseTitle": "ALGOR FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "261304",
+          "CourseTitle": "COMPUTER ARCHITECTURE",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261335",
+          "CourseTitle": "COMPUTER NETWORKS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261336",
+          "CourseTitle": "COMPUTER NETWORKS LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261342",
+          "CourseTitle": "FUND OF DATABASE SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261343",
+          "CourseTitle": "DATABASE SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261498",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "361100",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "515101",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "462130",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261383",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261305",
+          "CourseTitle": "OPERATING SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "259194",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261382",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261361",
+          "CourseTitle": "SOFTWARE ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261306",
+          "CourseTitle": "COMP ENGR PROB \u0026 STAT",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "3",
+      "Courses": [
+        {
+          "Course_no": "261400",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "P"
+        }
+      ]
+    }
+  ],
+  "640612084": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261111",
+          "CourseTitle": "INTERNET AND ONLINE COMMUNITY",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "C+"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "F"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "602102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261208",
+          "CourseTitle": "NUMERICAL COMP FOR ENGR",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261218",
+          "CourseTitle": "ALGOR FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "3",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "360100",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "462130",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "261304",
+          "CourseTitle": "COMPUTER ARCHITECTURE",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261335",
+          "CourseTitle": "COMPUTER NETWORKS",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261336",
+          "CourseTitle": "COMPUTER NETWORKS LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261342",
+          "CourseTitle": "FUND OF DATABASE SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261343",
+          "CourseTitle": "DATABASE SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261459",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261499",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "515101",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "261305",
+          "CourseTitle": "OPERATING SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "259194",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "259193",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "1.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "703103",
+          "CourseTitle": "INTRO TO ENTRE AND BUS",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261491",
+          "CourseTitle": "PROJECT SURVEY",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261458",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261361",
+          "CourseTitle": "SOFTWARE ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261306",
+          "CourseTitle": "COMP ENGR PROB \u0026 STAT",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    }
+  ],
+  "640612085": null,
+  "640612086": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "602102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "F"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "D+"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "261111",
+          "CourseTitle": "INTERNET AND ONLINE COMMUNITY",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "462130",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261208",
+          "CourseTitle": "NUMERICAL COMP FOR ENGR",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261218",
+          "CourseTitle": "ALGOR FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "C"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "3",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "D"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "261304",
+          "CourseTitle": "COMPUTER ARCHITECTURE",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "261335",
+          "CourseTitle": "COMPUTER NETWORKS",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "261336",
+          "CourseTitle": "COMPUTER NETWORKS LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261342",
+          "CourseTitle": "FUND OF DATABASE SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261343",
+          "CourseTitle": "DATABASE SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261498",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "361100",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "515101",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "261383",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261305",
+          "CourseTitle": "OPERATING SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "259194",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261382",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261361",
+          "CourseTitle": "SOFTWARE ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261306",
+          "CourseTitle": "COMP ENGR PROB \u0026 STAT",
+          "Credit": "3.00",
+          "Grade": "C"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "3",
+      "Courses": [
+        {
+          "Course_no": "261400",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "P"
+        }
+      ]
+    }
+  ],
+  "640612087": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259108",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "D+"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "F"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "F"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261111",
+          "CourseTitle": "INTERNET AND ONLINE COMMUNITY",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "461170",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261304",
+          "CourseTitle": "COMPUTER ARCHITECTURE",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "261335",
+          "CourseTitle": "COMPUTER NETWORKS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261336",
+          "CourseTitle": "COMPUTER NETWORKS LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261459",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "703103",
+          "CourseTitle": "INTRO TO ENTRE AND BUS",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "261494",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261382",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261361",
+          "CourseTitle": "SOFTWARE ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261306",
+          "CourseTitle": "COMP ENGR PROB \u0026 STAT",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261305",
+          "CourseTitle": "OPERATING SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261218",
+          "CourseTitle": "ALGOR FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261208",
+          "CourseTitle": "NUMERICAL COMP FOR ENGR",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "3",
+      "Courses": [
+        {
+          "Course_no": "261400",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "P"
+        }
+      ]
+    }
+  ],
+  "640612088": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "602102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "D"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "3",
+      "Courses": [
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "F"
+        },
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "103271",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261111",
+          "CourseTitle": "INTERNET AND ONLINE COMMUNITY",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "W"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "953111",
+          "CourseTitle": "SOFTWARE FOR EVERYDAY LIFE",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "3",
+      "Courses": [
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "W"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "259108",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "F"
+        },
+        {
+          "Course_no": "261335",
+          "CourseTitle": "COMPUTER NETWORKS",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261336",
+          "CourseTitle": "COMPUTER NETWORKS LABORATORY",
+          "Credit": "1.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261497",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "356100",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "C+"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "261361",
+          "CourseTitle": "SOFTWARE ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "259108",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261382",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "W"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "3",
+      "Courses": [
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "F"
+        }
+      ]
+    }
+  ],
+  "640612089": null,
+  "640612090": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259108",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "C+"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "356102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "C"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "W"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261208",
+          "CourseTitle": "NUMERICAL COMP FOR ENGR",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "C+"
+        }
+      ]
+    }
+  ],
+  "640612091": null,
+  "640612092": null,
+  "640612093": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261111",
+          "CourseTitle": "INTERNET AND ONLINE COMMUNITY",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "462130",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261208",
+          "CourseTitle": "NUMERICAL COMP FOR ENGR",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261218",
+          "CourseTitle": "ALGOR FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "515101",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "261304",
+          "CourseTitle": "COMPUTER ARCHITECTURE",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261335",
+          "CourseTitle": "COMPUTER NETWORKS",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261336",
+          "CourseTitle": "COMPUTER NETWORKS LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261342",
+          "CourseTitle": "FUND OF DATABASE SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261343",
+          "CourseTitle": "DATABASE SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261497",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261499",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "602102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "261491",
+          "CourseTitle": "PROJECT SURVEY",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261458",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261406",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261361",
+          "CourseTitle": "SOFTWARE ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261306",
+          "CourseTitle": "COMP ENGR PROB \u0026 STAT",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261305",
+          "CourseTitle": "OPERATING SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261112",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    }
+  ],
+  "640612094": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "602102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261111",
+          "CourseTitle": "INTERNET AND ONLINE COMMUNITY",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "B"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261208",
+          "CourseTitle": "NUMERICAL COMP FOR ENGR",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261218",
+          "CourseTitle": "ALGOR FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "851103",
+          "CourseTitle": "LIFE AND SOCIETY THROUGH MEDIA",
+          "Credit": "3.00",
+          "Grade": "C+"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "261304",
+          "CourseTitle": "COMPUTER ARCHITECTURE",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261335",
+          "CourseTitle": "COMPUTER NETWORKS",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261336",
+          "CourseTitle": "COMPUTER NETWORKS LABORATORY",
+          "Credit": "1.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261342",
+          "CourseTitle": "FUND OF DATABASE SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261343",
+          "CourseTitle": "DATABASE SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261497",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "361100",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "W"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "953111",
+          "CourseTitle": "SOFTWARE FOR EVERYDAY LIFE",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "701181",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "261491",
+          "CourseTitle": "PROJECT SURVEY",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261448",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261361",
+          "CourseTitle": "SOFTWARE ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261306",
+          "CourseTitle": "COMP ENGR PROB \u0026 STAT",
+          "Credit": "3.00",
+          "Grade": "D"
+        },
+        {
+          "Course_no": "261305",
+          "CourseTitle": "OPERATING SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "C"
+        }
+      ]
+    }
+  ],
+  "640612095": null,
+  "640612096": null,
+  "640612097": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "CX"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "CX"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261111",
+          "CourseTitle": "INTERNET AND ONLINE COMMUNITY",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "C"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "462130",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261208",
+          "CourseTitle": "NUMERICAL COMP FOR ENGR",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261218",
+          "CourseTitle": "ALGOR FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "261304",
+          "CourseTitle": "COMPUTER ARCHITECTURE",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261335",
+          "CourseTitle": "COMPUTER NETWORKS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261336",
+          "CourseTitle": "COMPUTER NETWORKS LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261342",
+          "CourseTitle": "FUND OF DATABASE SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261343",
+          "CourseTitle": "DATABASE SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261497",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "515101",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "602102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "703103",
+          "CourseTitle": "INTRO TO ENTRE AND BUS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261491",
+          "CourseTitle": "PROJECT SURVEY",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261458",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261453",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261361",
+          "CourseTitle": "SOFTWARE ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261306",
+          "CourseTitle": "COMP ENGR PROB \u0026 STAT",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261305",
+          "CourseTitle": "OPERATING SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261112",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    }
+  ],
+  "640612098": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261111",
+          "CourseTitle": "INTERNET AND ONLINE COMMUNITY",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "C+"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "462130",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261208",
+          "CourseTitle": "NUMERICAL COMP FOR ENGR",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261218",
+          "CourseTitle": "ALGOR FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "515101",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "261304",
+          "CourseTitle": "COMPUTER ARCHITECTURE",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261335",
+          "CourseTitle": "COMPUTER NETWORKS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261336",
+          "CourseTitle": "COMPUTER NETWORKS LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261342",
+          "CourseTitle": "FUND OF DATABASE SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261343",
+          "CourseTitle": "DATABASE SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261494",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261497",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "602102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "703103",
+          "CourseTitle": "INTRO TO ENTRE AND BUS",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261491",
+          "CourseTitle": "PROJECT SURVEY",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261458",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261430",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261361",
+          "CourseTitle": "SOFTWARE ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261306",
+          "CourseTitle": "COMP ENGR PROB \u0026 STAT",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261305",
+          "CourseTitle": "OPERATING SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "259194",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "1.00",
+          "Grade": "S"
+        }
+      ]
+    }
+  ],
+  "640612099": [
+    {
+      "Year": "1",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001101",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 1",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "140104",
+          "CourseTitle": "CITIZENSHIP",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "206161",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 1",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207105",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 1",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207115",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259106",
+          "CourseTitle": "WORKSHOP TECHNOLOGY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "259191",
+          "CourseTitle": "PRIN OF BEING PRO",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261103",
+          "CourseTitle": "BASIC COMPUTER ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261111",
+          "CourseTitle": "INTERNET AND ONLINE COMMUNITY",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "1",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001102",
+          "CourseTitle": "FUNDAMENTAL ENGLISH 2",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "206162",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 2",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "207106",
+          "CourseTitle": "Physics for Engineering and Agro-Industry Students 2",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "207116",
+          "CourseTitle": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+          "Credit": "1.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "252281",
+          "CourseTitle": "FUNDA OF ELEC CIRCUIT FOR ISNE",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "259104",
+          "CourseTitle": "ENGINEERING DRAWING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261102",
+          "CourseTitle": "COMPUTER PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "D+"
+        },
+        {
+          "Course_no": "356102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "261207",
+          "CourseTitle": "BASIC COMP ENGR LAB",
+          "Credit": "2.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261210",
+          "CourseTitle": "LOGIC AND DIGITAL CIRCUITS",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261212",
+          "CourseTitle": "LOGIC \u0026 DIGITAL CIRCUITS LAB",
+          "Credit": "1.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261216",
+          "CourseTitle": "DISCRE MATH FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261217",
+          "CourseTitle": "DATA STRUC FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "462130",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "2",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "001225",
+          "CourseTitle": "ENGL IN SCIENCE \u0026 TECH CONT",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "206261",
+          "CourseTitle": "CALCULUS FOR ENGINEERING 3",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261200",
+          "CourseTitle": "OBJECT-ORIENTED PROGRAMMING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261214",
+          "CourseTitle": "MICROPROCESSOR AND INTERFACING",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261215",
+          "CourseTitle": "EMBEDDED SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261218",
+          "CourseTitle": "ALGOR FOR COMP ENGR",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261332",
+          "CourseTitle": "DATA \u0026 COMP COMMUNICATION",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "515101",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "A"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "1",
+      "Courses": [
+        {
+          "Course_no": "001201",
+          "CourseTitle": "CRIT READ AND EFFECT WRITE",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261304",
+          "CourseTitle": "COMPUTER ARCHITECTURE",
+          "Credit": "3.00",
+          "Grade": "C"
+        },
+        {
+          "Course_no": "261335",
+          "CourseTitle": "COMPUTER NETWORKS",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261336",
+          "CourseTitle": "COMPUTER NETWORKS LABORATORY",
+          "Credit": "1.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261342",
+          "CourseTitle": "FUND OF DATABASE SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "B"
+        },
+        {
+          "Course_no": "261343",
+          "CourseTitle": "DATABASE SYSTEM LABORATORY",
+          "Credit": "1.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261498",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "602102",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "2",
+      "Courses": [
+        {
+          "Course_no": "261383",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261382",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "261361",
+          "CourseTitle": "SOFTWARE ENGINEERING",
+          "Credit": "3.00",
+          "Grade": "A"
+        },
+        {
+          "Course_no": "261306",
+          "CourseTitle": "COMP ENGR PROB \u0026 STAT",
+          "Credit": "3.00",
+          "Grade": "W"
+        },
+        {
+          "Course_no": "261305",
+          "CourseTitle": "OPERATING SYSTEMS",
+          "Credit": "3.00",
+          "Grade": "C+"
+        },
+        {
+          "Course_no": "261208",
+          "CourseTitle": "NUMERICAL COMP FOR ENGR",
+          "Credit": "3.00",
+          "Grade": "B+"
+        },
+        {
+          "Course_no": "259194",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "1.00",
+          "Grade": "S"
+        },
+        {
+          "Course_no": "261473",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "B+"
+        }
+      ]
+    },
+    {
+      "Year": "3",
+      "Semester": "3",
+      "Courses": [
+        {
+          "Course_no": "261400",
+          "CourseTitle": "Not contain in curriculum",
+          "Credit": "3.00",
+          "Grade": "P"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1080 @@
+{
+  "coreGroup": [
+    {
+      "groupName": "Core",
+      "requiredCourses": [
+        {
+          "courseNo": "206161",
+          "recommendSemester": 1,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "206162",
+          "recommendSemester": 2,
+          "recommendYear": 1,
+          "prerequisites": [
+            "206161"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "206261",
+          "recommendSemester": 1,
+          "recommendYear": 2,
+          "prerequisites": [
+            "206162"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "207105",
+          "recommendSemester": 1,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "207106",
+          "recommendSemester": 2,
+          "recommendYear": 1,
+          "prerequisites": [
+            "207105"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "207115",
+          "recommendSemester": 1,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "207116",
+          "recommendSemester": 2,
+          "recommendYear": 1,
+          "prerequisites": [
+            "207115"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "252281",
+          "recommendSemester": 2,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "259104",
+          "recommendSemester": 1,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "259106",
+          "recommendSemester": 1,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261208",
+          "recommendSemester": 2,
+          "recommendYear": 2,
+          "prerequisites": [
+            "206261"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261216",
+          "recommendSemester": 1,
+          "recommendYear": 2,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261306",
+          "recommendSemester": 2,
+          "recommendYear": 3,
+          "prerequisites": [
+            "206261"
+          ],
+          "corequisite": ""
+        }
+      ],
+      "electiveCourses": []
+    }
+  ],
+  "majorGroup": [
+    {
+      "groupName": "Major Required",
+      "requiredCourses": [
+        {
+          "courseNo": "261102",
+          "recommendSemester": 2,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261103",
+          "recommendSemester": 1,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261200",
+          "recommendSemester": 2,
+          "recommendYear": 2,
+          "prerequisites": [
+            "261102"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261207",
+          "recommendSemester": 1,
+          "recommendYear": 2,
+          "prerequisites": [
+            "261103"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261210",
+          "recommendSemester": 1,
+          "recommendYear": 2,
+          "prerequisites": [
+            "207106"
+          ],
+          "corequisite": "261212"
+        },
+        {
+          "courseNo": "261212",
+          "recommendSemester": 1,
+          "recommendYear": 2,
+          "prerequisites": [],
+          "corequisite": "261210"
+        },
+        {
+          "courseNo": "261214",
+          "recommendSemester": 2,
+          "recommendYear": 2,
+          "prerequisites": [
+            "261210",
+            "252281"
+          ],
+          "corequisite": "261215"
+        },
+        {
+          "courseNo": "261215",
+          "recommendSemester": 2,
+          "recommendYear": 2,
+          "prerequisites": [],
+          "corequisite": "261214"
+        },
+        {
+          "courseNo": "261217",
+          "recommendSemester": 1,
+          "recommendYear": 2,
+          "prerequisites": [
+            "261102"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261218",
+          "recommendSemester": 2,
+          "recommendYear": 2,
+          "prerequisites": [
+            "261217",
+            "261216"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261304",
+          "recommendSemester": 1,
+          "recommendYear": 3,
+          "prerequisites": [
+            "261214"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261305",
+          "recommendSemester": 2,
+          "recommendYear": 3,
+          "prerequisites": [
+            "261304"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261332",
+          "recommendSemester": 2,
+          "recommendYear": 2,
+          "prerequisites": [
+            "207106"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261335",
+          "recommendSemester": 1,
+          "recommendYear": 3,
+          "prerequisites": [
+            "261332"
+          ],
+          "corequisite": "261336"
+        },
+        {
+          "courseNo": "261336",
+          "recommendSemester": 1,
+          "recommendYear": 3,
+          "prerequisites": [],
+          "corequisite": "261335"
+        },
+        {
+          "courseNo": "261342",
+          "recommendSemester": 1,
+          "recommendYear": 3,
+          "prerequisites": [
+            "261218"
+          ],
+          "corequisite": "261343"
+        },
+        {
+          "courseNo": "261343",
+          "recommendSemester": 1,
+          "recommendYear": 3,
+          "prerequisites": [],
+          "corequisite": "261342"
+        },
+        {
+          "courseNo": "261361",
+          "recommendSemester": 2,
+          "recommendYear": 3,
+          "prerequisites": [
+            "261200"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261405",
+          "recommendSemester": 2,
+          "recommendYear": 4,
+          "prerequisites": [
+            "261361"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261491",
+          "recommendSemester": 2,
+          "recommendYear": 3,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261492",
+          "recommendSemester": 2,
+          "recommendYear": 4,
+          "prerequisites": [
+            "261491"
+          ],
+          "corequisite": ""
+        }
+      ],
+      "electiveCourses": []
+    },
+    {
+      "groupName": "Major Elective",
+      "requiredCourses": [],
+      "electiveCourses": [
+        {
+          "courseNo": "261381",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261382",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261383",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261400",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261404",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261406",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261407",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261408",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261409",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261411",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261414",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261421",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261424",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261430",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261433",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261434",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261435",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261437",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261438",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261439",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261441",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261444",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261446",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261447",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261448",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261449",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261453",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261456",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261457",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261458",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261459",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261461",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261465",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261468",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261469",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261470",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261471",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261472",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261473",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261475",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261476",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261478",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261479",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261481",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261482",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261493",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261494",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261495",
+          "recommendSemester": 1,
+          "recommendYear": 4,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261497",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261498",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261499",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "269421",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "269430",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "269431",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "269432",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "269433",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "269441",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "269461",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "269462",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        }
+      ]
+    }
+  ],
+  "geGroup": [
+    {
+      "groupName": "Learner Person",
+      "requiredCourses": [
+        {
+          "courseNo": "001101",
+          "recommendSemester": 1,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "001102",
+          "recommendSemester": 2,
+          "recommendYear": 1,
+          "prerequisites": [
+            "001101"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "001201",
+          "recommendSemester": 1,
+          "recommendYear": 2,
+          "prerequisites": [
+            "001102"
+          ],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "001225",
+          "recommendSemester": 2,
+          "recommendYear": 2,
+          "prerequisites": [
+            "001102"
+          ],
+          "corequisite": ""
+        }
+      ],
+      "electiveCourses": [
+        {
+          "courseNo": "204100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "261111",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "953111",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        }
+      ]
+    },
+    {
+      "groupName": "Co-Creator",
+      "requiredCourses": [
+        {
+          "courseNo": "259192",
+          "recommendSemester": 2,
+          "recommendYear": 4,
+          "prerequisites": [],
+          "corequisite": ""
+        }
+      ],
+      "electiveCourses": [
+        {
+          "courseNo": "013110",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "050106",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "176100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "201114",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "201117",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "201190",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "207109",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "207110",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "368100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "602201",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "610111",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "703103",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "751100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "851103",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "852100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        }
+      ]
+    },
+    {
+      "groupName": "Active Citizen",
+      "requiredCourses": [
+        {
+          "courseNo": "140104",
+          "recommendSemester": 1,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "259191",
+          "recommendSemester": 1,
+          "recommendYear": 1,
+          "prerequisites": [],
+          "corequisite": ""
+        }
+      ],
+      "electiveCourses": []
+    },
+    {
+      "groupName": "Elective",
+      "requiredCourses": [],
+      "electiveCourses": [
+        {
+          "courseNo": "011100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "109114",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "127100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "128100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "154104",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "201100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "203100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "211100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "254182",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "256131",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "259108",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "259193",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "259194",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "259195",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "462130",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "571116",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "602102",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "701181",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "702101",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "705191",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "801100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        },
+        {
+          "courseNo": "951100",
+          "recommendSemester": 0,
+          "recommendYear": 0,
+          "prerequisites": [],
+          "corequisite": ""
+        }
+      ]
+    }
+  ]
+}

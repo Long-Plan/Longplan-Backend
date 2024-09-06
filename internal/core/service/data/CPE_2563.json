@@ -1,0 +1,1877 @@
+{
+  "code": "25410041100099",
+  "name_th": "หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์ (2563)",
+  "name_en": "Bachelor of Engineering Program in Computer Engineering (2563)",
+  "ge_template_id": 1,
+  "self_categories": [
+    {
+      "name_th": "แผนการศึกษา",
+      "name_en": "Study Plan",
+      "members": [
+        {
+          "name_th": "แผนปกติ",
+          "name_en": "Regular Plan"
+        },
+        {
+          "name_th": "แผนสหกิจศึกษา",
+          "name_en": "Cooperative Education Plan"
+        }
+      ]
+    }
+  ],
+  "fs_category": {
+    "name_th": "หมวดวิชาเฉพาะ",
+    "name_en": "Field of Specialization",
+    "credit": 103,
+    "kind": 0,
+    "note": "หมวดวิชาเฉพาะ จำนวน 103 หน่วยกิต",
+    "members": [
+      {
+        "name_th": "วิชาแกน",
+        "name_en": "Core Courses",
+        "credit": 33,
+        "kind": 2,
+        "note": "วิชาแกน จำนวน 33 หน่วยกิต",
+        "courses": [
+          {
+            "course": "206161",
+            "semester": 1,
+            "year": 1,
+            "requisite": []
+          },
+          {
+            "course": "206162",
+            "semester": 2,
+            "year": 1,
+            "requisite": [
+              {
+                "course": "206161",
+                "requisite_type": 1
+              }
+            ]
+          },
+          {
+            "course": "206261",
+            "semester": 1,
+            "year": 2,
+            "requisite": [
+              {
+                "course": "206162",
+                "requisite_type": 1
+              }
+            ]
+          },
+          {
+            "course": "207105",
+            "semester": 1,
+            "year": 1,
+            "requisite": []
+          },
+          {
+            "course": "207106",
+            "semester": 2,
+            "year": 1,
+            "requisite": [
+              {
+                "course": "207105",
+                "requisite_type": 1
+              }
+            ]
+          },
+          {
+            "course": "207115",
+            "semester": 1,
+            "year": 1,
+            "requisite": []
+          },
+          {
+            "course": "207116",
+            "semester": 2,
+            "year": 1,
+            "requisite": [
+              {
+                "course": "207115",
+                "requisite_type": 1
+              }
+            ]
+          },
+          {
+            "course": "252281",
+            "semester": 2,
+            "year": 1,
+            "requisite": []
+          },
+          {
+            "course": "259104",
+            "semester": 1,
+            "year": 1,
+            "requisite": []
+          },
+          {
+            "course": "259106",
+            "semester": 1,
+            "year": 1,
+            "requisite": []
+          },
+          {
+            "course": "261208",
+            "semester": 2,
+            "year": 2,
+            "requisite": [
+              {
+                "course": "206261",
+                "requisite_type": 0
+              }
+            ]
+          },
+          {
+            "course": "261216",
+            "semester": 1,
+            "year": 2,
+            "requisite": []
+          },
+          {
+            "course": "261306",
+            "semester": 1,
+            "year": 3,
+            "requisite": [
+              {
+                "course": "206261",
+                "requisite_type": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name_th": "วิชาเอก",
+        "name_en": "Major Courses",
+        "credit": 70,
+        "kind": 0,
+        "note": "วิชาเอก จำนวน 70 หน่วยกิต",
+        "members": [
+          {
+            "name_th": "แผนการศึกษา",
+            "name_en": "Study Plan",
+            "credit": 70,
+            "kind": 1,
+            "note": "แผนการศึกษา จำนวน 70 หน่วยกิต",
+            "self_categorie": "Study Plan",
+            "cross_category": "Major Electives",
+            "members": [
+              {
+                "name_th": "แผนปกติ",
+                "name_en": "Regular Plan",
+                "credit": 70,
+                "kind": 0,
+                "note": "แผนปกติ จำนวน 70 หน่วยกิต",
+                "members": [
+                  {
+                    "name_th": "วิชาเอกบังคับ",
+                    "name_en": "Required Major Courses",
+                    "credit": 52,
+                    "kind": 2,
+                    "note": "วิชาเอกบังคับ จำนวน 52 หน่วยกิต",
+                    "courses": [
+                      {
+                        "course": "261405",
+                        "semester": 2,
+                        "year": 4,
+                        "requisite": [
+                          {
+                            "course": "261361",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261491",
+                        "semester": 1,
+                        "year": 4,
+                        "requisite": []
+                      },
+                      {
+                        "course": "261492",
+                        "semester": 2,
+                        "year": 4,
+                        "requisite": [
+                          {
+                            "course": "261491",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261102",
+                        "semester": 2,
+                        "year": 1,
+                        "requisite": []
+                      },
+                      {
+                        "course": "261200",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261102",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "269102",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261217",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261102",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261218",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261216",
+                            "requisite_type": 1
+                          },
+                          {
+                            "course": "261217",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261361",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261200",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261103",
+                        "semester": 1,
+                        "year": 1,
+                        "requisite": []
+                      },
+                      {
+                        "course": "261207",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261103",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261332",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "207106",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261335",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261332",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "269130",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261336",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 2
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261342",
+                        "semester": 2,
+                        "year": 4,
+                        "requisite": [
+                          {
+                            "course": "261205",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "261218",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261343",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261342",
+                            "requisite_type": 2
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261210",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "207106",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261212",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261210",
+                            "requisite_type": 2
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261214",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261210",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "252281",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261215",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261214",
+                            "requisite_type": 2
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261304",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261214",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261305",
+                        "semester": 2,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261304",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "269210",
+                            "requisite_type": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name_th": "วิชาเอกเลือก",
+                    "name_en": "Major Electives",
+                    "credit": 18,
+                    "kind": 2,
+                    "note": "วิชาเอกเลือก จำนวน 18 หน่วยกิต",
+                    "courses": [
+                      {
+                        "course": "261381",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261382",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261383",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261404",
+                        "requisite": [
+                          {
+                            "course": "261200",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261406",
+                        "requisite": [
+                          {
+                            "course": "261102",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261407",
+                        "requisite": [
+                          {
+                            "course": "261218",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261408",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261409",
+                        "requisite": [
+                          {
+                            "course": "261216",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "261217",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261411",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261414",
+                        "requisite": [
+                          {
+                            "course": "261210",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261421",
+                        "requisite": [
+                          {
+                            "course": "261214",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "261304",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261424",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261430",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261433",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261434",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261435",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261437",
+                        "requisite": [
+                          {
+                            "course": "261306",
+                            "requisite_type": 1
+                          },
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261438",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261439",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261441",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261444",
+                        "requisite": [
+                          {
+                            "course": "261342",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261446",
+                        "requisite": [
+                          {
+                            "course": "261205",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "261217",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261447",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261448",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261449",
+                        "requisite": [
+                          {
+                            "course": "261361",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261453",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261456",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261457",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261458",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261459",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261461",
+                        "requisite": [
+                          {
+                            "course": "261102",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "269102",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "229223",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261465",
+                        "requisite": [
+                          {
+                            "course": "259104",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261468",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261469",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261470",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261471",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261472",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261473",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261475",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261476",
+                        "requisite": [
+                          {
+                            "course": "252211",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "252281",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261478",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261479",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261481",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261482",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261493",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261494",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261497",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261498",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261499",
+                        "requisite": []
+                      },
+                      {
+                        "course": "269421",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "269430",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "269431",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "269432",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "269433",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "269441",
+                        "requisite": []
+                      },
+                      {
+                        "course": "269461",
+                        "requisite": []
+                      },
+                      {
+                        "course": "269462",
+                        "requisite": [
+                          {
+                            "course": "261361",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261400",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "261342",
+                            "requisite_type": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name_th": "แผนสหกิจศึกษา",
+                "name_en": "Cooperative Education Plan",
+                "credit": 70,
+                "kind": 0,
+                "note": "แผนสหกิจศึกษา จำนวน 70 หน่วยกิต",
+                "members": [
+                  {
+                    "name_th": "วิชาเอกบังคับ",
+                    "name_en": "Required Major Courses",
+                    "credit": 52,
+                    "kind": 2,
+                    "note": "วิชาเอกบังคับ จำนวน 52 หน่วยกิต",
+                    "courses": [
+                      {
+                        "course": "261405",
+                        "semester": 2,
+                        "year": 4,
+                        "requisite": [
+                          {
+                            "course": "261361",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261491",
+                        "semester": 2,
+                        "year": 3,
+                        "requisite": []
+                      },
+                      {
+                        "course": "261492",
+                        "semester": 2,
+                        "year": 4,
+                        "requisite": [
+                          {
+                            "course": "261491",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261102",
+                        "semester": 2,
+                        "year": 1,
+                        "requisite": []
+                      },
+                      {
+                        "course": "261200",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261102",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "269102",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261217",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261102",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261218",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261216",
+                            "requisite_type": 1
+                          },
+                          {
+                            "course": "261217",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261361",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261200",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261103",
+                        "semester": 1,
+                        "year": 1,
+                        "requisite": []
+                      },
+                      {
+                        "course": "261207",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261103",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261332",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "207106",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261335",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261332",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "269130",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261336",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 2
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261342",
+                        "semester": 2,
+                        "year": 4,
+                        "requisite": [
+                          {
+                            "course": "261205",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "261218",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261343",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261342",
+                            "requisite_type": 2
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261210",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "207106",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261212",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261210",
+                            "requisite_type": 2
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261214",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261210",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "252281",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261215",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                          {
+                            "course": "261214",
+                            "requisite_type": 2
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261304",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261214",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261305",
+                        "semester": 2,
+                        "year": 3,
+                        "requisite": [
+                          {
+                            "course": "261304",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "269210",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261495",
+                        "semester": 1,
+                        "year": 4,
+                        "requisite": []
+                      }
+                    ]
+                  },
+                  {
+                    "name_th": "วิชาเอกเลือก",
+                    "name_en": "Major Electives",
+                    "credit": 18,
+                    "kind": 2,
+                    "note": "วิชาเอกเลือก จำนวน 18 หน่วยกิต",
+                    "courses": [
+                      {
+                        "course": "261381",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261382",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261383",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261404",
+                        "requisite": [
+                          {
+                            "course": "261200",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261406",
+                        "requisite": [
+                          {
+                            "course": "261102",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261407",
+                        "requisite": [
+                          {
+                            "course": "261218",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261408",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261409",
+                        "requisite": [
+                          {
+                            "course": "261216",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "261217",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261411",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261414",
+                        "requisite": [
+                          {
+                            "course": "261210",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261421",
+                        "requisite": [
+                          {
+                            "course": "261214",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "261304",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261424",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261430",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261433",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261434",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261435",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261437",
+                        "requisite": [
+                          {
+                            "course": "261306",
+                            "requisite_type": 1
+                          },
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261438",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261439",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261441",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261444",
+                        "requisite": [
+                          {
+                            "course": "261342",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261446",
+                        "requisite": [
+                          {
+                            "course": "261205",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "261217",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261447",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261448",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261449",
+                        "requisite": [
+                          {
+                            "course": "261361",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261453",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261456",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261457",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261458",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261459",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261461",
+                        "requisite": [
+                          {
+                            "course": "261102",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "269102",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "229223",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261465",
+                        "requisite": [
+                          {
+                            "course": "259104",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261468",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261469",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261470",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261471",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261472",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261473",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261475",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261476",
+                        "requisite": [
+                          {
+                            "course": "252211",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "252281",
+                            "requisite_type": 0
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261478",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261479",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261481",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261482",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261493",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261494",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261497",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261498",
+                        "requisite": []
+                      },
+                      {
+                        "course": "261499",
+                        "requisite": []
+                      },
+                      {
+                        "course": "269421",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "269430",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "269431",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "269432",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "269433",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "269441",
+                        "requisite": []
+                      },
+                      {
+                        "course": "269461",
+                        "requisite": []
+                      },
+                      {
+                        "course": "269462",
+                        "requisite": [
+                          {
+                            "course": "261361",
+                            "requisite_type": 1
+                          }
+                        ]
+                      },
+                      {
+                        "course": "261400",
+                        "requisite": [
+                          {
+                            "course": "261335",
+                            "requisite_type": 0
+                          },
+                          {
+                            "course": "261342",
+                            "requisite_type": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ge_category": {
+    "name_th": "หมวดวิชาศึกษาทั่วไป",
+    "name_en": "General Education",
+    "credit": 30,
+    "kind": 0,
+    "note": "หมวดวิชาศึกษาทั่วไป จำนวน 30 หน่วยกิต",
+    "members": [
+      {
+        "name_th": "วิชาบังคับ",
+        "name_en": "Required Courses",
+        "credit": 23,
+        "kind": 0,
+        "note": "วิชาบังคับ จำนวน 23 หน่วยกิต",
+        "members": [
+          {
+            "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้",
+            "name_en": "Learner Person",
+            "credit": 15,
+            "kind": 0,
+            "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้ จำนวน 15 หน่วยกิต",
+            "members": [
+              {
+                "name_th": "ภาษาอังกฤษ",
+                "name_en": "English",
+                "credit": 12,
+                "kind": 2,
+                "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้(ภาษา) จำนวน 12 หน่วยกิต",
+                "courses": [
+                  {
+                    "course": "001101",
+                    "semester": 1,
+                    "year": 1,
+                    "requisite": []
+                  },
+                  {
+                    "course": "001102",
+                    "semester": 2,
+                    "year": 1,
+                    "requisite": []
+                  },
+                  {
+                    "course": "001201",
+                    "semester": 1,
+                    "year": 2,
+                    "requisite": [
+                      {
+                        "course": "001101",
+                        "requisite_type": 0
+                      },
+                      {
+                        "course": "001102",
+                        "requisite_type": 0
+                      }
+                    ]
+                  },
+                  {
+                    "course": "001225",
+                    "semester": 2,
+                    "year": 2,
+                    "requisite": [
+                      {
+                        "course": "001101",
+                        "requisite_type": 0
+                      },
+                      {
+                        "course": "001102",
+                        "requisite_type": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name_th": "เลือกอีก 3 หน่วยกิต",
+                "name_en": "Selected 3 credits",
+                "credit": 0,
+                "kind": 2,
+                "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้(เลือกเพิ่มอีก) จำนวน 3 หน่วยกิต",
+                "courses": [
+                  {
+                    "course": "204100",
+                    "semester": 2,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "261111",
+                    "semester": 2,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "953111",
+                    "semester": 2,
+                    "year": 3,
+                    "requisite": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม",
+            "name_en": "Innovative Co-creator",
+            "credit": 4,
+            "kind": 2,
+            "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม จำนวน 4 หน่วยกิต",
+            "members": [
+              {
+                "name_th": "192",
+                "name_en": "192",
+                "credit": 1,
+                "kind": 2,
+                "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม(192) จำนวน 1 หน่วยกิต",
+                "courses": [
+                  {
+                    "course": "259192",
+                    "semester": 2,
+                    "year": 4,
+                    "requisite": []
+                  }
+                ]
+              },
+              {
+                "name_th": "เลือกอีก 3 หน่วยกิต",
+                "name_en": "Selected 3 credits",
+                "credit": 0,
+                "kind": 2,
+                "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม(เลือกเพิ่มอีก) จำนวน 3 หน่วยกิต",
+                "courses": [
+                  {
+                    "course": "013110",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "050106",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "176100",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "201114",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "201117",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "201190",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "207109",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "207110",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "368100",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "602201",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "610111",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "703103",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "751100",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "851103",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  },
+                  {
+                    "course": "852100",
+                    "semester": 1,
+                    "year": 3,
+                    "requisite": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง",
+            "name_en": "Active Citizen ",
+            "credit": 4,
+            "kind": 0,
+            "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง จำนวน 4 หน่วยกิต",
+            "courses": [
+              {
+                "course": "140104",
+                "semester": 1,
+                "year": 1,
+                "requisite": []
+              },
+              {
+                "course": "259191",
+                "semester": 1,
+                "year": 1,
+                "requisite": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name_th": "วิชาเลือก",
+        "name_en": "General Education Elective",
+        "credit": 7,
+        "kind": 0,
+        "note": "วิชาเลือก จำนวน 7 หน่วยกิต",
+        "members": [
+          {
+            "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้",
+            "name_en": "Learner Person",
+            "credit": 0,
+            "kind": 2,
+            "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้ แบบเลือก",
+            "courses": [
+              {
+                "course": "201100",
+                "requisite": []
+              },
+              {
+                "course": "203100",
+                "requisite": []
+              },
+              {
+                "course": "211100",
+                "requisite": []
+              },
+              {
+                "course": "462130",
+                "requisite": []
+              },
+              {
+                "course": "571116",
+                "requisite": []
+              },
+              {
+                "course": "701181",
+                "requisite": []
+              },
+              {
+                "course": "702101",
+                "requisite": []
+              },
+              {
+                "course": "705191",
+                "requisite": []
+              }
+            ]
+          },
+          {
+            "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม",
+            "name_en": "Innovative Co-creator",
+            "credit": 0,
+            "kind": 2,
+            "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม แบบเลือก",
+            "courses": [
+              {
+                "course": "259194",
+                "requisite": []
+              }
+            ]
+          },
+          {
+            "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง",
+            "name_en": "Active Citizen ",
+            "credit": 0,
+            "kind": 2,
+            "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง แบบเลือก",
+            "courses": [
+              {
+                "course": "011100",
+                "requisite": []
+              },
+              {
+                "course": "109114",
+                "requisite": []
+              },
+              {
+                "course": "127100",
+                "requisite": []
+              },
+              {
+                "course": "128100",
+                "requisite": []
+              },
+              {
+                "course": "154104",
+                "requisite": []
+              },
+              {
+                "course": "254182",
+                "requisite": []
+              },
+              {
+                "course": "256131",
+                "requisite": []
+              },
+              {
+                "course": "259108",
+                "requisite": []
+              },
+              {
+                "course": "259193",
+                "requisite": []
+              },
+              {
+                "course": "259195",
+                "requisite": []
+              },
+              {
+                "course": "602102",
+                "requisite": []
+              },
+              {
+                "course": "801100",
+                "requisite": []
+              },
+              {
+                "course": "951100",
+                "requisite": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "fe_category": {
+    "name_th": "หมวดวิชาเลือกเสรี",
+    "name_en": "Free Electives",
+    "credit": 6,
+    "kind": 2,
+    "note": "หมวดวิชาเลือกเสรี จำนวน 6 หน่วยกิต",
+    "courses": []
+  }
+}

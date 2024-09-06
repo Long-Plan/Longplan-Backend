@@ -1,0 +1,2344 @@
+{
+    "code": "25410041100145",
+    "name_th": "หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมเครื่องกล (2563)",
+    "name_en": "Bachelor of Engineering Program in Mechanical Engineering (2563)",
+    "ge_template_id": 1,
+    "self_categories": [
+        {
+            "name_th": "แผนการศึกษา",
+            "name_en": "Study Plan",
+            "members": [
+                {
+                    "name_th": "แผนปกติ",
+                    "name_en": "Regular Plan"
+                },
+                {
+                    "name_th": "แผนสหกิจศึกษา",
+                    "name_en": "Cooperative Education Plan"
+                }
+            ]
+        }
+    ],
+    "fs_category": {
+        "name_th": "หมวดวิชาเฉพาะ",
+        "name_en": "Field of Specialization",
+        "credit": 109,
+        "kind": 0,
+        "note": "หมวดวิชาเฉพาะ จำนวน 109 หน่วยกิต",
+        "members": [
+            {
+                "name_th": "วิชาแกน",
+                "name_en": "Core Courses",
+                "credit": 54,
+                "kind": 2,
+                "note": "วิชาแกน จำนวน 54 หน่วยกิต",
+                "courses": [
+                    {
+                        "course": "203162",
+                        "semester": 2,
+                        "year": 1,
+                        "requisite": []
+                    },
+                    {
+                        "course": "203167",
+                        "semester": 2,
+                        "year": 1,
+                        "requisite": [
+                            {
+                                "course": "203162",
+                                "requisite_type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "course": "206161",
+                        "semester": 1,
+                        "year": 1,
+                        "requisite": []
+                    },
+                    {
+                        "course": "206162",
+                        "semester": 2,
+                        "year": 1,
+                        "requisite": [
+                            {
+                                "course": "206161",
+                                "requisite_type": 1
+                            }
+                        ]
+                    },
+                    {
+                        "course": "206261",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                            {
+                                "course": "206162",
+                                "requisite_type": 1
+                            }
+                        ]
+                    },
+                    {
+                        "course": "206362",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                            {
+                                "course": "206112",
+                                "requisite_type": 0
+                            },
+                            {
+                                "course": "206203",
+                                "requisite_type": 0
+                            },
+                            {
+                                "course": "206261",
+                                "requisite_type": 0
+                            }
+                        ]
+                    },
+                    {
+                        "course": "207105",
+                        "semester": 1,
+                        "year": 1,
+                        "requisite": []
+                    },
+                    {
+                        "course": "207106",
+                        "semester": 2,
+                        "year": 1,
+                        "requisite": [
+                            {
+                                "course": "207105",
+                                "requisite_type": 1
+                            }
+                        ]
+                    },
+                    {
+                        "course": "207115",
+                        "semester": 1,
+                        "year": 1,
+                        "requisite": []
+                    },
+                    {
+                        "course": "207116",
+                        "semester": 2,
+                        "year": 1,
+                        "requisite": [
+                            {
+                                "course": "207115",
+                                "requisite_type": 1
+                            }
+                        ]
+                    },
+                    {
+                        "course": "208263",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": []
+                    },
+                    {
+                        "course": "252285",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                            {
+                                "course": "207106",
+                                "requisite_type": 1
+                            }
+                        ]
+                    },
+                    {
+                        "course": "252286",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                            {
+                                "course": "252285",
+                                "requisite_type": 2
+                            }
+                        ]
+                    },
+                    {
+                        "course": "254205",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                            {
+                                "course": "254102",
+                                "requisite_type": 0
+                            },
+                            {
+                                "course": "259104",
+                                "requisite_type": 0
+                            }
+                        ]
+                    },
+                    {
+                        "course": "254206",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                            {
+                                "course": "259107",
+                                "requisite_type": 1
+                            }
+                        ]
+                    },
+                    {
+                        "course": "254271",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": [
+                            {
+                                "course": "259103",
+                                "requisite_type": 1
+                            }
+                        ]
+                    },
+                    {
+                        "course": "254302",
+                        "semester": 1,
+                        "year": 3,
+                        "requisite": [
+                            {
+                                "course": "206261",
+                                "requisite_type": 1
+                            },
+                            {
+                                "course": "259201",
+                                "requisite_type": 1
+                            }
+                        ]
+                    },
+                    {
+                        "course": "259103",
+                        "semester": 1,
+                        "year": 1,
+                        "requisite": []
+                    },
+                    {
+                        "course": "259104",
+                        "semester": 1,
+                        "year": 1,
+                        "requisite": []
+                    },
+                    {
+                        "course": "259106",
+                        "semester": 2,
+                        "year": 1,
+                        "requisite": []
+                    },
+                    {
+                        "course": "259107",
+                        "semester": 1,
+                        "year": 2,
+                        "requisite": [
+                            {
+                                "course": "206161",
+                                "requisite_type": 1
+                            },
+                            {
+                                "course": "207105",
+                                "requisite_type": 1
+                            }
+                        ]
+                    },
+                    {
+                        "course": "259201",
+                        "semester": 2,
+                        "year": 2,
+                        "requisite": []
+                    }
+                ]
+            },
+            {
+                "name_th": "วิชาเอก",
+                "name_en": "Major Courses",
+                "credit": 55,
+                "kind": 0,
+                "note": "วิชาเอก จำนวน 55 หน่วยกิต",
+                "members": [
+                    {
+                        "name_th": "แผนการศึกษา",
+                        "name_en": "Study Plan",
+                        "credit": 55,
+                        "kind": 1,
+                        "note": "แผนการศึกษา จำนวน 55 หน่วยกิต",
+                        "self_categorie": "Study Plan",
+                        "cross_category": "Major Electives",
+                        "members": [
+                            {
+                                "name_th": "แผนปกติ",
+                                "name_en": "Normal Plan",
+                                "credit": 55,
+                                "kind": 0,
+                                "note": "แผนปกติ จำนวน 55 หน่วยกิต",
+                                "members": [
+                                    {
+                                        "name_th": "วิชาเอกบังคับ",
+                                        "name_en": "Required Major Courses",
+                                        "credit": 52,
+                                        "kind": 2,
+                                        "note": "วิชาเอกบังคับ จำนวน 52 หน่วยกิต",
+                                        "courses": [
+                                            {
+                                                "course": "254200",
+                                                "semester": 2,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "259107",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254205",
+                                                        "requisite_type": 2
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254215",
+                                                "semester": 1,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "259107",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254216",
+                                                "semester": 2,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254215",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254222",
+                                                "semester": 2,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254325",
+                                                "semester": 1,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254362",
+                                                "semester": 2,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254215",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254421",
+                                                "semester": 1,
+                                                "year": 4,
+                                                "requisite": [
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254231",
+                                                "semester": 1,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "206162",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "207106",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "207116",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254232",
+                                                "semester": 2,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254333",
+                                                "semester": 1,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "259203",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254334",
+                                                "semester": 2,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254444",
+                                                "semester": 1,
+                                                "year": 4,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "260334",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254451",
+                                                "semester": 1,
+                                                "year": 4,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254372",
+                                                "semester": 1,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "252285",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254265",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254373",
+                                                "semester": 2,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254254",
+                                                "semester": 1,
+                                                "year": 2,
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254371",
+                                                "semester": 2,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254490",
+                                                "semester": 1,
+                                                "year": 4,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254205",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254222",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "259106",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254491",
+                                                "semester": 2,
+                                                "year": 4,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254390",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254490",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254493",
+                                                "semester": 3,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254205",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254222",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "259106",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name_th": "วิชาเอกเลือก",
+                                        "name_en": "Major Electives",
+                                        "credit": 3,
+                                        "kind": 2,
+                                        "note": "วิชาเอกเลือก จำนวน 3 หน่วยกิต",
+                                        "courses": [
+                                            {
+                                                "course": "254411",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254212",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254412",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254212",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254413",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254325",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254414",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254415",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254423",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254325",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254424",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254325",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254426",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254222",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254428",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254213",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254325",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254222",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254463",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254205",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254207",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254301",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254302",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254468",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254362",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254477",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254222",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254478",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "260413",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254215",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254431",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254433",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254434",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254438",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254302",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "206355",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "260334",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254439",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254441",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254442",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254443",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254446",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254454",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254458",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "260334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254459",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254473",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254476",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "260334",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "260416",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "260421",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "260424",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "260334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254425",
+                                                "requisite": [
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254427",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254222",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254429",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254466",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254467",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260313",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254352",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254422",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254212",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254435",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254436",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254445",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254452",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254252",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254254",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254453",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254455",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254456",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254457",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254461",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254462",
+                                                "requisite": [
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254464",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254465",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254492",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254494",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254495",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254496",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254497",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "259401",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260401",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260402",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260432",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260434",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260461",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260462",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260494",
+                                                "requisite": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name_th": "แผนสหกิจศึกษา",
+                                "name_en": "Cooperative Education Plan",
+                                "credit": 55,
+                                "kind": 0,
+                                "note": "แผนสหกิจศึกษา จำนวน 55 หน่วยกิต",
+                                "members": [
+                                    {
+                                        "name_th": "วิชาเอกบังคับ",
+                                        "name_en": "Required Major Courses",
+                                        "credit": 52,
+                                        "kind": 2,
+                                        "note": "วิชาเอกบังคับ จำนวน 52 หน่วยกิต",
+                                        "courses": [
+                                            {
+                                                "course": "254200",
+                                                "semester": 2,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "259107",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254205",
+                                                        "requisite_type": 2
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254215",
+                                                "semester": 1,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "259107",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254216",
+                                                "semester": 2,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254215",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254222",
+                                                "semester": 2,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254325",
+                                                "semester": 1,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254362",
+                                                "semester": 2,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254215",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254421",
+                                                "semester": 1,
+                                                "year": 4,
+                                                "requisite": [
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254231",
+                                                "semester": 1,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "206162",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "207106",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "207116",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254232",
+                                                "semester": 2,
+                                                "year": 2,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254333",
+                                                "semester": 1,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "259203",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254334",
+                                                "semester": 2,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254444",
+                                                "semester": 1,
+                                                "year": 4,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "260334",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254451",
+                                                "semester": 1,
+                                                "year": 4,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254372",
+                                                "semester": 1,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "252285",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254265",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254373",
+                                                "semester": 2,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254254",
+                                                "semester": 1,
+                                                "year": 2,
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254371",
+                                                "semester": 2,
+                                                "year": 3,
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254390",
+                                                "semester": 3,
+                                                "year": 3,
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254489",
+                                                "semester": 1,
+                                                "year": 4,
+                                                "requisite": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name_th": "วิชาเอกเลือก",
+                                        "name_en": "Major Electives",
+                                        "credit": 3,
+                                        "kind": 2,
+                                        "note": "วิชาเอกเลือก จำนวน 18 หน่วยกิต",
+                                        "courses": [
+                                            {
+                                                "course": "254411",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254212",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254412",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254212",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254413",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254325",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254414",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254415",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254423",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254325",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254424",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254325",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254426",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254222",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254428",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254213",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254325",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254222",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254463",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254205",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254207",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254301",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254302",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254468",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254362",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254477",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254222",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254478",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "260413",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254215",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254431",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254433",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254434",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254438",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254302",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "206355",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "260334",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254439",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254441",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254442",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254443",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254446",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254454",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254458",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "260334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254459",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254473",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254476",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "260334",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "260416",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "260421",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "260424",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "260334",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254425",
+                                                "requisite": [
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254427",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254222",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254429",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254466",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254467",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260313",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254352",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254422",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254212",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254214",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254216",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254334",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254435",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254436",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254445",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254452",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254252",
+                                                        "requisite_type": 0
+                                                    },
+                                                    {
+                                                        "course": "254254",
+                                                        "requisite_type": 0
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254453",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254455",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254456",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254232",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254457",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254231",
+                                                        "requisite_type": 1
+                                                    },
+                                                    {
+                                                        "course": "254333",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254461",
+                                                "requisite": [
+                                                    {
+                                                        "course": "254206",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254462",
+                                                "requisite": [
+                                                    {
+                                                        "course": "206362",
+                                                        "requisite_type": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "course": "254464",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254465",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254492",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254494",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254495",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254496",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "254497",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "259401",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260401",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260402",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260432",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260434",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260461",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260462",
+                                                "requisite": []
+                                            },
+                                            {
+                                                "course": "260494",
+                                                "requisite": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ge_category": {
+        "name_th": "หมวดวิชาศึกษาทั่วไป",
+        "name_en": "General Education",
+        "credit": 30,
+        "kind": 0,
+        "note": "หมวดวิชาศึกษาทั่วไป จำนวน 30 หน่วยกิต",
+        "members": [
+            {
+                "name_th": "วิชาบังคับ",
+                "name_en": "Required Courses",
+                "credit": 24,
+                "kind": 0,
+                "note": "วิชาบังคับ จำนวน 23 หน่วยกิต",
+                "members": [
+                    {
+                        "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้",
+                        "name_en": "Learner Person",
+                        "credit": 15,
+                        "kind": 2,
+                        "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้ จำนวน 15 หน่วยกิต",
+                        "courses": [
+                            {
+                                "course": "001101",
+                                "semester": 1,
+                                "year": 1,
+                                "requisite": []
+                            },
+                            {
+                                "course": "001102",
+                                "semester": 2,
+                                "year": 1,
+                                "requisite": []
+                            },
+                            {
+                                "course": "001201",
+                                "semester": 1,
+                                "year": 2,
+                                "requisite": [
+                                    {
+                                        "course": "001101",
+                                        "requisite_type": 0
+                                    },
+                                    {
+                                        "course": "001102",
+                                        "requisite_type": 0
+                                    }
+                                ]
+                            },
+                            {
+                                "course": "001225",
+                                "semester": 2,
+                                "year": 2,
+                                "requisite": [
+                                    {
+                                        "course": "001101",
+                                        "requisite_type": 0
+                                    },
+                                    {
+                                        "course": "001102",
+                                        "requisite_type": 0
+                                    }
+                                ]
+                            },
+                            {
+                                "course": "204100",
+                                "semester": 2,
+                                "year": 3,
+                                "requisite": []
+                            }
+                        ]
+                    },
+                    {
+                        "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม",
+                        "name_en": "Innovative Co-creator",
+                        "credit": 4,
+                        "kind": 2,
+                        "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม จำนวน 4 หน่วยกิต",
+                        "members": [
+                            {
+                                "name_th": "192",
+                                "name_en": "192",
+                                "credit": 1,
+                                "kind": 2,
+                                "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม(192) จำนวน 1 หน่วยกิต",
+                                "courses": [
+                                    {
+                                        "course": "259192",
+                                        "semester": 2,
+                                        "year": 4,
+                                        "requisite": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name_th": "เลือกอีก 3 หน่วยกิต",
+                                "name_en": "Selected 3 credits",
+                                "credit": 0,
+                                "kind": 2,
+                                "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้ร่วมสร้างสรรค์นวัตกรรม(เลือกเพิ่มอีก) จำนวน 3 หน่วยกิต",
+                                "courses": [
+                                    {
+                                        "course": "013110",
+                                        "semester": 1,
+                                        "year": 3,
+                                        "requisite": []
+                                    },
+                                    {
+                                        "course": "204123",
+                                        "semester": 1,
+                                        "year": 3,
+                                        "requisite": []
+                                    },
+                                    {
+                                        "course": "210100",
+                                        "semester": 1,
+                                        "year": 3,
+                                        "requisite": []
+                                    },
+                                    {
+                                        "course": "703103",
+                                        "semester": 1,
+                                        "year": 3,
+                                        "requisite": []
+                                    },
+                                    {
+                                        "course": "751100",
+                                        "semester": 1,
+                                        "year": 3,
+                                        "requisite": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง",
+                        "name_en": "Active Citizen ",
+                        "credit": 5,
+                        "kind": 0,
+                        "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง จำนวน 4 หน่วยกิต",
+                        "courses": [
+                            {
+                                "course": "140104",
+                                "semester": 1,
+                                "year": 1,
+                                "requisite": []
+                            },
+                            {
+                                "course": "259191",
+                                "semester": 1,
+                                "year": 1,
+                                "requisite": []
+                            },
+                            {
+                                "course": "259195",
+                                "semester": 2,
+                                "year": 3,
+                                "requisite": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name_th": "วิชาเลือก",
+                "name_en": "General Education Elective",
+                "credit": 6,
+                "kind": 0,
+                "note": "วิชาเลือก จำนวน 7 หน่วยกิต",
+                "members": [
+                    {
+                        "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้",
+                        "name_en": "Learner Person",
+                        "credit": 0,
+                        "kind": 2,
+                        "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นผู้เรียนรู้ แบบเลือก",
+                        "courses": [
+                            {
+                                "course": "009103",
+                                "requisite": []
+                            },
+                            {
+                                "course": "011269",
+                                "requisite": []
+                            },
+                            {
+                                "course": "202100",
+                                "requisite": []
+                            },
+                            {
+                                "course": "702101",
+                                "requisite": []
+                            },
+                            {
+                                "course": "851100",
+                                "requisite": []
+                            },
+                            {
+                                "course": "888104",
+                                "requisite": []
+                            }
+                        ]
+                    },
+                    {
+                        "name_th": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง",
+                        "name_en": "Active Citizen ",
+                        "credit": 0,
+                        "kind": 2,
+                        "note": "กลุ่มวิชาด้านการพัฒนาทักษะการเป็นพลเมืองที่เข้มแข็ง แบบเลือก",
+                        "courses": [
+                            {
+                                "course": "154142",
+                                "requisite": []
+                            },
+                            {
+                                "course": "201115",
+                                "requisite": []
+                            },
+                            {
+                                "course": "254182",
+                                "requisite": []
+                            },
+                            {
+                                "course": "259108",
+                                "requisite": []
+                            },
+                            {
+                                "course": "365221",
+                                "requisite": []
+                            },
+                            {
+                                "course": "801100",
+                                "requisite": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "fe_category": {
+        "name_th": "หมวดวิชาเลือกเสรี",
+        "name_en": "Free Electives",
+        "credit": 6,
+        "kind": 2,
+        "note": "หมวดวิชาเลือกเสรี จำนวน 6 หน่วยกิต",
+        "courses": []
+    }
+}

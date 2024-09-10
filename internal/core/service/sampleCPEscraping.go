@@ -16,7 +16,7 @@ type EnrollCourse struct {
 
 type Students struct {
 	StudentID string
-	EnrollCourse []Mapping_Enrolled_course
+	EnrollCourse []MappingEnrolledCourseAdv
 }
 
 func toInt(s string) int {
@@ -29,7 +29,7 @@ func toInt(s string) int {
 
 func MultipleScrapingAndsaveToJSON(start string, end string, normal bool) {
 	// start 619 - end 676
-	allEnrollCourses := make(map[string][]Mapping_Enrolled_course_adv)
+	allEnrollCourses := make(map[string][]MappingEnrolledCourseAdv)
 
 	intStart := toInt(start)
 	intEnd := toInt(end)
@@ -38,7 +38,7 @@ func MultipleScrapingAndsaveToJSON(start string, end string, normal bool) {
 	if normal {
 		for i := intStart; i <= intEnd; i++ {
 			studentID := "640610" + fmt.Sprintf("%03d", i)
-			studentEnrollCourse , err := Scraping_Enrollcourse_adv(studentID, true)
+			studentEnrollCourse , err := Scraping_Enrollcourse_adv(studentID)
 			if err != nil {
 				fmt.Println("Error Scraping_Enrollcourse:", err)
 				return
@@ -48,7 +48,7 @@ func MultipleScrapingAndsaveToJSON(start string, end string, normal bool) {
 	} else {
 		for i := intStart; i <= intEnd; i++ {
 			studentID := "640612" + fmt.Sprintf("%03d", i)
-			studentEnrollCourse , err := Scraping_Enrollcourse_adv(studentID, true)
+			studentEnrollCourse , err := Scraping_Enrollcourse_adv(studentID)
 			if err != nil {
 				fmt.Println("Error Scraping_Enrollcourse:", err)
 				return

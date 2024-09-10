@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
+	"log"
 	"longplan-backend-service/internal/core/service"
 	"os"
 	"path/filepath"
@@ -238,3 +239,24 @@ func GetMatchedFilenamesHandler(c *fiber.Ctx) error {
 	// Return the JSON response
 	return c.SendString(jsonResponse)
 }
+
+func GetCourseTitle (c *fiber.Ctx) error {
+	courseID := c.Params("id")
+	courseIDRegex := regexp.MustCompile(`^\d{6}$`)
+
+	if courseID == "" {
+		return c.Status(fiber.StatusBadRequest).SendString("course_id parameter is required")
+	}
+	if !courseIDRegex.MatchString(courseID) {
+		return c.Status(fiber.StatusBadRequest).SendString("Invalid course_id format")
+	}
+
+	log.Print(courseID)
+
+	courseTitle, err := service.Mapping_coursename_byCourseID(courseID)
+	if err != nil {
+		return c.Status(fiber.StatusInternalServerError).SendString(err.Error())
+	}
+
+	return c.JSON(courseTitle)
+} 

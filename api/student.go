@@ -14,9 +14,10 @@ func bindStudentRouter(router fiber.Router) {
 
 	// main method
 	enrolledData.Get("/enrolledData",middlewares.AuthMiddleware(), handler.ScrapingHandler)
+	enrolledData.Get("/enrolledDataOld",middlewares.AuthMiddleware(), handler.ScrapingOldHandler)
 	
 	// adv-project
-	enrolledData.Get("/enrolledData/get/cpestudents", handler.GetCPEstudents) 	
-	enrolledData.Get("/enrolledData/:id", handler.GetEnrolledDataHandler) 		
-	enrolledData.Get("/enrolledData/course/:id", handler.GetCourseTitle)
+	// enrolledData.Get("/enrolledData/get/cpestudents", handler.GetCPEstudents) 	
+	// enrolledData.Get("/enrolledData/:id", handler.GetEnrolledDataHandler) 		
+	// enrolledData.Get("/enrolledData/course/:id", handler.GetCourseTitle)
 }

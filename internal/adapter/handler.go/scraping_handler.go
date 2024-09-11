@@ -49,8 +49,8 @@ func ScrapingHandler(c *fiber.Ctx) error { // Next time this method with fetch s
 }
 
 func ScrapingByGroupHandler(c *fiber.Ctx) error { 
-	year := c.Params("year")
-	semester := c.Params("semester")
+	year := c.Query("year")
+	semester := c.Query("semester")
 
 	studentID := c.Locals("USER_DATA").(oauth.UserDto).StudentID
 	studentIDRegex := regexp.MustCompile(`^\d{9}$`)

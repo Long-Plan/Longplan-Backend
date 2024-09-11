@@ -173,3 +173,12 @@ func fetchCourseTitle(courseID string) (string, error) {
 	return courses[0].CourseTitleEng, nil
 }
 
+func FilterByGroup (mappings []MappingEnrolledCourse, year string , semester string) []MappingEnrolledCourse {
+	var filteredMappings []MappingEnrolledCourse
+	for _, mapping := range mappings {
+		if (mapping.Year == year && mapping.Semester == semester) {
+			filteredMappings = append(filteredMappings, mapping)
+		}
+	}
+	return filteredMappings
+}

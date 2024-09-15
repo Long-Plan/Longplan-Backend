@@ -19,6 +19,6 @@ func bindStudentRouter(router fiber.Router) {
 	
 	// adv-project
 	// enrolledData.Get("/enrolledData/get/cpestudents", handler.GetCPEstudents) 	
-	// enrolledData.Get("/enrolledData/:id", handler.GetEnrolledDataHandler) 		
+	enrolledData.Get("/enrolledData/:id", handler.GetEnrolledDataHandler) 		
 	// enrolledData.Get("/enrolledData/course/:id", handler.GetCourseTitle)
 }

@@ -88,12 +88,14 @@ func GetEnrolledDataHandler(c *fiber.Ctx) error {
 
 	log.Print(studentID)
 
-	mappings, err := service.Scraping_Enrollcourse_adv(studentID)
-	if err != nil {
-		return c.Status(fiber.StatusInternalServerError).SendString(err.Error())
-	}
+	// mappings, err := service.Scraping_Enrollcourse_adv(studentID)
+	// if err != nil {
+	// 	return c.Status(fiber.StatusInternalServerError).SendString(err.Error())
+	// }
 
-	return c.JSON(mappings)
+	oldversion := service.GetEnrolledCourseByStudentIDOldVersion(studentID)
+
+	return c.JSON(oldversion)
 }
 
 
